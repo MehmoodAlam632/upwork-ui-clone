@@ -2,6 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
     inset-inline: block;
+    font-family: serif, Geneva, Tahoma, sans-serif;
 }
 
 ul, li {
